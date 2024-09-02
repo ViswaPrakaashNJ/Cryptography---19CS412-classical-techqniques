@@ -71,6 +71,7 @@ return 0;
 ```
 ## OUTPUT:
 
+![Screenshot 2024-09-02 123632](https://github.com/user-attachments/assets/27cacdee-dbb9-4635-8249-c7aa9b494278)
 
 ## RESULT:
 The program is executed successfully
