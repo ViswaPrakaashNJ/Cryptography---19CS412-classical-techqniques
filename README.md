@@ -345,7 +345,7 @@ return 0;
 ```
 
 ## OUTPUT:
-OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/317af901-ba5d-4b69-b3f7-0bce52c02850)
 
 
@@ -450,7 +450,7 @@ return 0;
 }
 ```
 ## OUTPUT:
-OUTPUT :
+
 ![image](https://github.com/user-attachments/assets/f023a250-9a85-4e4d-b194-cca6174caa3b)
 
 
@@ -540,7 +540,7 @@ printf("\n");
 }
 ```
 ## OUTPUT:
-OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/2336078f-905e-48a2-be96-622dd063b588)
 
 ## RESULT:
