@@ -110,7 +110,8 @@ Encryption:
 
 Decryption:
 
-![Screenshot 2024-09-02 132730](https://github.com/user-attachments/assets/52b099c1-d22c-407e-9844-3040e9c3f7d3)
+![Screenshot 2024-09-02 133006](https://github.com/user-attachments/assets/3b601371-7786-43cc-b220-e80a7090ac0c)
+
 
 
 ## RESULT:
